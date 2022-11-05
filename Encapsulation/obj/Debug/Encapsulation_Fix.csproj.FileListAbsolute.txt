@@ -1,7 +1,0 @@
-C:\Temp\IntroductionToCSharp\Encapsulation\bin\Debug\Encapsulation.exe.config
-C:\Temp\IntroductionToCSharp\Encapsulation\bin\Debug\Encapsulation.exe
-C:\Temp\IntroductionToCSharp\Encapsulation\bin\Debug\Encapsulation.pdb
-C:\Temp\IntroductionToCSharp\Encapsulation\obj\Debug\Encapsulation_Fix.csproj.AssemblyReference.cache
-C:\Temp\IntroductionToCSharp\Encapsulation\obj\Debug\Encapsulation_Fix.csproj.CoreCompileInputs.cache
-C:\Temp\IntroductionToCSharp\Encapsulation\obj\Debug\Encapsulation.exe
-C:\Temp\IntroductionToCSharp\Encapsulation\obj\Debug\Encapsulation.pdb
